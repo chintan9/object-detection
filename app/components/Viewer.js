@@ -72,7 +72,7 @@ const Viewer = ({ file, objects, status }) => {
         <div ref={divEl} className={'viewer ' + (file ? 'open' : '')}>
             {file && (
                 <div className="img-container" style={{ transform }}>
-                    <img ref={imgEl} onLoad={scaleView} src={file.src} />
+                    <img ref={imgEl} alt={file} onLoad={scaleView} src={file.src} />
                 </div>
             )}
             {scale && (
