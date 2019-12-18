@@ -33,7 +33,7 @@ const Dropzone = ({
                 {({ getRootProps, getInputProps }) => {
                     return (
                         <div {...getRootProps()} className="dropzone">
-                            <input {...getInputProps()} />
+                            <input type="image" {...getInputProps()} />
                             <p>Drop an image here</p>
                             <p>(png/jpeg)</p>
                         </div>
