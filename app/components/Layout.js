@@ -1,8 +1,8 @@
 const Layout = ({ sidebar, children }) => (
-  <div className="container">
-    <div className="main">{children}</div>
-    <div className="sidebar">{sidebar}</div>
-    <style jsx>{`
+    <div className="container">
+        <div className="main">{children}</div>
+        <div className="sidebar">{sidebar}</div>
+        <style jsx>{`
       .container {
         width: 100%;
       }
@@ -37,7 +37,7 @@ const Layout = ({ sidebar, children }) => (
         }
       }
     `}</style>
-  </div>
+    </div>
 )
 
 export default Layout
