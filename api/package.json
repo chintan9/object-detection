@@ -14,7 +14,7 @@
     "tfjs-lambda": "^0.0.14"
   },
   "devDependencies": {
-    "@tensorflow/tfjs-node": "1.0.2",
+    "@tensorflow/tfjs-node": "1.4.0",
     "micro-dev": "3.0.0"
   }
 }
