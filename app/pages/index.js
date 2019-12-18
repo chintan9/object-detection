@@ -260,7 +260,7 @@ export default () => {
                                     the dedicated article on ZEIT's blog
                 </a>{' '}
                                 or in the code{' '}
-                                <a href="https://github.com/lucleray/object-detection">
+                                <a href="https://github.com/chintan9/object-detection">
                                     available on Github.
                 </a>
                             </p>
@@ -268,11 +268,11 @@ export default () => {
                             <p className="mb">
                                 Made by{' '}
                                 <a
-                                    href="https://twitter.com/lucleray"
+                                    href="https://twitter.com/chintan121"
                                     target="_blank"
                                     rel="noreferrer"
                                 >
-                                    @lucleray
+                                    @chintan121
                 </a>
                                 .
               </p>
