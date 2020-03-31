@@ -8,7 +8,7 @@
         "now-build": "next build && next export -o dist"
     },
     "dependencies": {
-        "next": "^9.0.0",
+        "next": "^9.3.2",
         "react": "^16.8.2",
         "react-dom": "^16.8.2",
         "react-dropzone": "^10.0.0"
