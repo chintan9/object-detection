@@ -11,7 +11,7 @@
         "next": "^9.0.0",
         "react": "^16.8.2",
         "react-dom": "^16.8.2",
-        "react-dropzone": "^10.0.0"
+        "react-dropzone": "^11.0.0"
     },
     "devDependencies": {
         "dotenv": "8.2.0"
