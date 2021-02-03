@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "content-type": "^1.0.4",
-    "jimp": "^0.9.0",
+    "jimp": "^0.16.0",
     "micro": "^9.3.3",
     "micro-cors": "^0.1.1",
     "tfjs-lambda": "^0.0.14"
